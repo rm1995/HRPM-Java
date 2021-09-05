@@ -14,5 +14,4 @@ public class ChangePassword {
     private String email;
     private String hint;
     private Boolean timeout;
-
 }
